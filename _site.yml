@@ -9,7 +9,7 @@ navbar:
       href: mailto:<augustxzh@gmail.com>
     - icon: fa-github fa-lg
       href: https://github.com/augustxzh
-    - icon: fa-linkedin-square
+    - icon: fa-linkedin
       href: https://www.linkedin.com/in/zenghui-xue-b803a442/
 output:
   html_document:
