@@ -1,7 +1,7 @@
 ---
 title: "Zenghui Xue" 
 ---
-<img src="Zenghui.jpg" style="width:20%">
+#<img src="Zenghui.jpg" style="width:20%">
 
 <br>
 
