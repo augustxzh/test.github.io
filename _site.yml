@@ -13,6 +13,6 @@ navbar:
       href: https://www.linkedin.com/in/zenghui-xue-b803a442/
 output:
   html_document:
-    theme: spacelab
+    theme: Cerulean
     highlight: kate
     
